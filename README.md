@@ -14,7 +14,7 @@ AgriVision Pro est conçu pour proposer des solutions efficaces à trois des plu
 - **Prédiction de rendement agricole**
 - **Détection des maladies des plantes**
 
-![image](strct_pred.png) *(chemin relatif à adapter)*
+![image](Results/strct_pred.png) *(chemin relatif à adapter)*
 
 ## Fonctionnalités Principales
 
