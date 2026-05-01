@@ -73,7 +73,7 @@ AgriVision s’appuie sur les données et technologies de PlantVillage, une plat
 
 **Performances :** Précision 83 % – Recall 80,13 %
 
-![image](futuristic-businessman-farms-vegetables-crops-using-modern-ai-technology-mobile-phones-temperature-humidity-sensors-water-263535870.webp)
+![image](Results/Anomalies.webp)
 
 ## Déploiement
 
