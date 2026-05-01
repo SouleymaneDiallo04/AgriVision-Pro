@@ -1,6 +1,6 @@
 # AgriVision Pro : Réinventer l'Agriculture grâce à l'IA
 
-![image](https://raw.githubusercontent.com/.../R.jpeg) *(lien d’exemple, à remplacer par ton URL réelle)*
+![Logo](Results/Logo.jpeg)
 
 ## Présentation
 
